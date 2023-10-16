@@ -1,0 +1,1 @@
+Projeto da [série de vídeos no YouTube no canal DevSoutinho](https://www.youtube.com/watch?v=k1vdmXDgMJI&list=PLTcmLKdIkOWkkBSilAr6iqdnSDXdiiyIq) ensinando a fazer um jogo app com JavaScript e React Native!
